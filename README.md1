@@ -1,0 +1,18 @@
+# Namma Mela
+
+Namma Mela is an Android app built using Kotlin and Jetpack Compose for event and theater booking.
+
+## Features
+- Play showcase
+- Seat booking
+- Fan wall
+- Poster gallery
+- Admin mode
+
+## Tech Stack
+- Kotlin
+- Jetpack Compose
+- Material 3
+
+## Screenshots
+(Add screenshots here)
